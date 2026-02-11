@@ -43,7 +43,7 @@ The key characteristics of customers who are most likely to buy a bike and trans
 
 ##### Income
 * Higher income groups purchase more frequently
-* Customer earning $80K show the strongest conversion of 51-53%
+* Customer earning $60K show the strongest conversion of 51-53%
 
 ##### Commute Distance
 * 0-1 miles have the highest purchase rate
@@ -56,7 +56,7 @@ The key characteristics of customers who are most likely to buy a bike and trans
 <img width="932" height="592" alt="Screenshot 2026-02-11 221325" src="https://github.com/user-attachments/assets/aec077c7-963d-4f57-9b3c-a70b7b44bf16" />
 
 ## Business Recommendations
-Based on the analysis, marketing efforts should prioritize high-probability customer segments, particularly customers aged 30-40, earning $80K or more, and customers with commute distances under 5 miles as these group show the highest purchase rates. Campaign should focus on urban and suburban areas where shorter commute patterns which makes bicycles a transportation option. The brand should emphasize convenience, health benefits and bikes as efficient transportation for nearby travel. To improve ROI, marketing should be reduce for lower-conversion segments such as long-distance commuters (10+ miles) and older age groups. For future improvements, the company can enhance decision-making by developing predictive models such as classification algorithms, conducting A/B tests on targeted campaigns and incorportating seasonality and pricing to uncover deeper insights.
+Based on the analysis, marketing efforts should prioritize high-probability customer segments, particularly customers aged 30-40, earning $60K or more, and customers with commute distances under 5 miles as these group show the highest purchase rates. Campaign should focus on urban and suburban areas where shorter commute patterns which makes bicycles a transportation option. The brand should emphasize convenience, health benefits and bikes as efficient transportation for nearby travel. To improve ROI, marketing should be reduce for lower-conversion segments such as long-distance commuters (10+ miles) and older age groups. For future improvements, the company can enhance decision-making by developing predictive models such as classification algorithms, conducting A/B tests on targeted campaigns and incorportating seasonality and pricing to uncover deeper insights.
 
 
 
